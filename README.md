@@ -2,9 +2,6 @@
 BCA student at JMC <br><br>
 Currently learning and Building FrontEnd projects
 
-Im Kamala Mahara ✨
-BCA student at JMC <br><br>
-Currently learning and Building FrontEnd projects
 
 
 
