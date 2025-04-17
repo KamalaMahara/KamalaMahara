@@ -1,4 +1,4 @@
-![logo](https://github.com/KamalaMahara/KamalaMahara/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image%20(1).mp4)
+![video](https://github.com/KamalaMahara/KamalaMahara/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image%20(1).mp4)
 
 ## Hi there 👋 Im Kamala Mahara ✨
 
