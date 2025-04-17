@@ -1,7 +1,7 @@
 ## Hi there 👋 Im Kamala Mahara ✨
 BCA student at JMC <br><br>
 Currently learning and Building FrontEnd projects
-<img align="right"  alt="coding" width="400px" height="400px" src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-9ec4-61f7-b49c-83b48ecd4699/raw?se=2025-04-17T18%3A20%3A52Z&sp=r&sv=2024-08-04&sr=b&scid=aad8b604-50a0-5d4d-9cf4-5c03ce16f013&skoid=7c382de0-129f-486b-9922-6e4a89c6eb7d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-16T21%3A25%3A14Z&ske=2025-04-17T21%3A25%3A14Z&sks=b&skv=2024-08-04&sig=NIRKLaE3nDQTCK6gMmjaKeizJAL33fZecR4r4IJCDto%3D"> 
+<img align="right"  alt="coding" width="400px" height="400px" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-9574-622f-8c68-5161e91c068c/raw?se=2025-04-17T18%3A16%3A35Z&sp=r&sv=2024-08-04&sr=b&scid=d7cdf214-9579-563b-be3d-ff9f5ae82b89&skoid=7c382de0-129f-486b-9922-6e4a89c6eb7d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-16T21%3A28%3A22Z&ske=2025-04-17T21%3A28%3A22Z&sks=b&skv=2024-08-04&sig=6rk26vrI99bkB2pNbuK%2BxRY4Fyph9cucMfgdQgT1Uxc%3D"> 
 
 
 
