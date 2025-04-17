@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGk6ArArSo/rclUgE_QgjfaaSSBsE2BXw/watch)
+![logo](https://github.com/KamalaMahara/KamalaMahara/blob/main/banner.jpg)
 
 
 
