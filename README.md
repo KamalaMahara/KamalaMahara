@@ -4,7 +4,7 @@
 
 ## Hi there 👋 Im Kamala Mahara ✨
 
-<img align="right"  alt="coding" width="400px" height="400px" src="https://www.google.com/imgres?q=3d%20cartoon%20vector%20a%20beautiful%20girl%20coding%20at%20her%20mac%20laptop%203d%20gif&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2F3d-beautiful-girl-20yearold-office-worker-using-laptop-white-background_1297092-883.jpg%3Fw%3D360&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2F3d-beautiful-girl-20yearold-office-worker-using-laptop-white-background_325607938.htm&docid=Qev7FJ1wWuJ8bM&tbnid=XnUilu7nIgyxCM&vet=12ahUKEwistoyZ3d-MAxXczzgGHRwxFkYQM3oECGkQAA..i&w=360&h=360&hcb=2&ved=2ahUKEwistoyZ3d-MAxXczzgGHRwxFkYQM3oECGkQAA" > 
+<img align="right"  alt="coding" width="400px" height="400px" src="https://img.freepik.com/premium-photo/3d-beautiful-girl-20yearold-office-worker-using-laptop-white-background_1297092-883.jpg?w=360" > 
 
 
 
