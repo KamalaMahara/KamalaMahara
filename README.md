@@ -4,7 +4,7 @@
 
 ## Hi there 👋 Im Kamala Mahara ✨
 
-<img align="right"  alt="coding" width="400px" height="400px" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-9574-622f-8c68-5161e91c068c/raw?se=2025-04-17T18%3A16%3A35Z&sp=r&sv=2024-08-04&sr=b&scid=d7cdf214-9579-563b-be3d-ff9f5ae82b89&skoid=7c382de0-129f-486b-9922-6e4a89c6eb7d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-16T21%3A28%3A22Z&ske=2025-04-17T21%3A28%3A22Z&sks=b&skv=2024-08-04&sig=6rk26vrI99bkB2pNbuK%2BxRY4Fyph9cucMfgdQgT1Uxc%3D" > 
+<img align="right"  alt="coding" width="400px" height="400px" src="https://www.google.com/imgres?q=3d%20cartoon%20vector%20a%20beautiful%20girl%20coding%20at%20her%20mac%20laptop%203d%20gif&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2F3d-beautiful-girl-20yearold-office-worker-using-laptop-white-background_1297092-883.jpg%3Fw%3D360&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2F3d-beautiful-girl-20yearold-office-worker-using-laptop-white-background_325607938.htm&docid=Qev7FJ1wWuJ8bM&tbnid=XnUilu7nIgyxCM&vet=12ahUKEwistoyZ3d-MAxXczzgGHRwxFkYQM3oECGkQAA..i&w=360&h=360&hcb=2&ved=2ahUKEwistoyZ3d-MAxXczzgGHRwxFkYQM3oECGkQAA" > 
 
 
 
