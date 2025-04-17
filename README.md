@@ -1,7 +1,7 @@
 ## Hi there 👋 Im Kamala Mahara ✨
 BCA student at JMC <br><br>
 Currently learning and Building FrontEnd projects
-
+<img align="right"  alt="coding" width="400px" src="C:\Users\Lenovo\Downloads\pt"> 
 
 
 
