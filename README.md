@@ -4,7 +4,7 @@
 
 ## Hi there 👋 Im Kamala Mahara ✨
 
-<img align="right"  alt="coding" width="400px" height="350px" src="https://img.freepik.com/premium-photo/3d-beautiful-girl-20yearold-office-worker-using-laptop-white-background_1297092-883.jpg?w=360" > 
+<img align="right"  alt="coding" width="350px" height="350px" src="https://img.freepik.com/premium-photo/3d-beautiful-girl-20yearold-office-worker-using-laptop-white-background_1297092-883.jpg?w=360" > 
 
 
 
