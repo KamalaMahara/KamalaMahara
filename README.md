@@ -1,4 +1,5 @@
-<video src="https://github.com/KamalaMahara/KamalaMahara/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image%20(1).mp4" autoplay loop muted playsinline style="width: 100%; border-radius: 10px;"></video>
+![logo](https://www.canva.com/design/DAGk6ArArSo/rclUgE_QgjfaaSSBsE2BXw/watch)
+
 
 
 ## Hi there 👋 Im Kamala Mahara ✨
