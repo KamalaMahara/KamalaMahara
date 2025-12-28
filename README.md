@@ -8,7 +8,7 @@
 
 
 
-BCA student  <br><br>
+BCA student under TU  <br><br>
 Currently learning and Building FrontEnd projects
 
 
