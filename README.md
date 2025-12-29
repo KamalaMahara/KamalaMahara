@@ -9,7 +9,7 @@
 
 
 BCA student under TU  <br><br>
-Currently learning and Building FrontEnd projects
+Currently learning and Buildin MERN  projects
 
 
 Blog Management System : https://blog-frontend-five-peach.vercel.app/
