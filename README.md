@@ -13,7 +13,8 @@ Currently learning and Buildin MERN  projects
 
 
 Blog Management System : https://blog-frontend-five-peach.vercel.app/
-Simple To-do using Websocket: https://websocket-to-do.onrender.com
+
+To-do using Websocket: https://websocket-to-do.onrender.com
 
 
 
